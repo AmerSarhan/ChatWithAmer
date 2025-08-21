@@ -1,0 +1,26 @@
+{
+  "short_name": "Chat with Amer",
+  "name": "Chat with Amer Sarhan - AI Clone",
+  "description": "Chat with Amer Sarhan's AI clone to learn about his experience in digital marketing and performance marketing",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#667eea",
+  "background_color": "#0F0C29",
+  "categories": [
+    "productivity",
+    "social",
+    "business"
+  ],
+  "lang": "en",
+  "scope": "/",
+  "id": "chat-with-amer-sarhan",
+  "prefer_related_applications": false
+} 
